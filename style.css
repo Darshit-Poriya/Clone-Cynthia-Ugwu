@@ -178,7 +178,8 @@ body {
     z-index: 999;
     transform: translate(-50%, -50%);
     pointer-events: none;
-    /* ? DONT FORGET TO INCLUDE THIS  */
+    border-radius: 50%;
+    /* ? DON'T FORGET TO INCLUDE THIS  */
 }
 
 #about {
